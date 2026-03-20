@@ -114,7 +114,7 @@ We gather signals from the mobile app and network:
 
 ## 🏗️ Layered Architecture
 
-![Architecture Diagram](Screenshot 2026-03-20 212905.png)
+![Architecture](https://raw.githubusercontent.com/Sanskriti1076/Robust-Anti-Spoofing-Defense-for-Delivery-Ride-Platforms/main/Screenshot%202026-03-20%20212905.png)
 
 
 ### Components
@@ -197,6 +197,9 @@ Additional:
 
 ## 🗺️ Roadmap and Timeline
 
+
+![Project Screenshot](https://raw.githubusercontent.com/Sanskriti1076/Robust-Anti-Spoofing-Defense-for-Delivery-Ride-Platforms/main/Screenshot%202026-03-20%20212921.png)
+
 ### 🔥 Short-Term (24–72h)
 - Basic spoof detection  
 - Speed/geofence rules  
@@ -209,6 +212,7 @@ Additional:
 - CAPTCHA/OTP flows  
 - Analyst dashboards  
 
+![Project Screenshot](https://raw.githubusercontent.com/Sanskriti1076/Robust-Anti-Spoofing-Defense-for-Delivery-Ride-Platforms/main/Screenshot%202026-03-20%20212932.png)
 ---
 
 ## ✅ Conclusion and Mitigations
